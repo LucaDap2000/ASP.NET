@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35118.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDiaryAPI", "WebDiaryAPI\WebDiaryAPI.csproj", "{ECEAC5F7-6886-41E9-91AF-A8BCBCE3D34F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEAC5F7-6886-41E9-91AF-A8BCBCE3D34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEAC5F7-6886-41E9-91AF-A8BCBCE3D34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEAC5F7-6886-41E9-91AF-A8BCBCE3D34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEAC5F7-6886-41E9-91AF-A8BCBCE3D34F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FB2C310-B93B-4AFE-B1A3-7B7BBCCDAEFF}
+	EndGlobalSection
+EndGlobal
