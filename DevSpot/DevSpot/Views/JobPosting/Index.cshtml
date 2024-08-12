@@ -1,0 +1,56 @@
+﻿@using DevSpot.Constants
+@model IEnumerable<JobPosting>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1 class="text-center m-5">All Developer Jobs</h1>
+
+<div class="list-group">
+
+    @foreach(var jobPosting in Model)
+    {
+        <div class="list-group-item" id="job-posting-@jobPosting.Id">
+            <h3>@jobPosting.Title</h3>
+            <p>@jobPosting.Description</p>
+            <p><strong>Company:</strong>@jobPosting.Company</p>
+            <p><strong>Location:</strong>@jobPosting.Location</p>
+            <p><strong>Posted Date:</strong>@jobPosting.PostedDate.ToShortDateString()</p>
+
+            @if(User.IsInRole(Roles.ADMIN) || User.IsInRole(Roles.EMPLOYER)){
+                <div>
+                    <button onclick="deleteJobPosting(@jobPosting.Id)" class="btn btn-sm btn-danger">Delete</button>
+                </div>
+            }
+        </div>
+    }
+
+</div>
+
+@section Scripts{
+    <script>
+        function deleteJobPosting(id){
+            if (confirm("Are you sure you want to delete this job posting?" + id)) {
+
+                // url
+                // type (delete)
+                // success -> visually remove the job posting li
+                // error -> show an error message
+
+                $.ajax({
+                    url: "@Url.Action("Delete", "JobPosting")/" + id,
+                    type: "delete",
+                    success: function (result) {
+                        $("#job-posting-" + id).remove();
+                    },
+                    Error: function (err) {
+                        alert("An error has occurred.")
+                    }
+                });
+            }
+        }
+    </script>
+}
