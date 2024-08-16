@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|c:\\users\\lucad\\source\\repos\\mvcbasics\\mvcbasics\\views\\helloworld\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\helloworld\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|c:\\users\\lucad\\source\\repos\\mvcbasics\\mvcbasics\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|c:\\users\\lucad\\source\\repos\\mvcbasics\\mvcbasics\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|c:\\users\\lucad\\source\\repos\\mvcbasics\\mvcbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|c:\\users\\lucad\\source\\repos\\mvcbasics\\mvcbasics\\models\\dogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\models\\dogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|c:\\users\\lucad\\source\\repos\\mvcbasics\\mvcbasics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|c:\\users\\lucad\\source\\repos\\mvcbasics\\mvcbasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F0DC1D-53DE-49E8-A9AA-A85CC7DB7ABA}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Views\\HelloWorld\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\HelloWorld\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Views\\HelloWorld\\Create.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\HelloWorld\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T15:45:19.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T15:38:15.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Models\\DogViewModel.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Models\\DogViewModel.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Models\\DogViewModel.cs",
+              "RelativeToolTip": "MVCBasics\\Models\\DogViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:32:08.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T15:11:51.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Program.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Program.cs",
+              "RelativeToolTip": "MVCBasics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:05:28.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "MVCBasics\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:03:10.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCBasics\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\MVCBasics\\MVCBasics\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCBasics\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:00:40.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
