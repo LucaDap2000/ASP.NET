@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\lucad\\source\\repos\\firstblazorapp\\firstblazorapp\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\lucad\\source\\repos\\firstblazorapp\\firstblazorapp\\shared\\shoppinglistlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\shared\\shoppinglistlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\lucad\\source\\repos\\firstblazorapp\\firstblazorapp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\lucad\\source\\repos\\firstblazorapp\\firstblazorapp\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\lucad\\source\\repos\\firstblazorapp\\firstblazorapp\\shared\\shoppinglistlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\shared\\shoppinglistlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\lucad\\source\\repos\\firstblazorapp\\firstblazorapp\\pages\\shoppinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A60423C-3EA9-4562-B4A8-6C2CEC245160}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\pages\\shoppinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "weather.json",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\sample-data\\weather.json",
+              "RelativeDocumentMoniker": "FirstBlazorApp\\wwwroot\\sample-data\\weather.json",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\wwwroot\\sample-data\\weather.json",
+              "RelativeToolTip": "FirstBlazorApp\\wwwroot\\sample-data\\weather.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T13:25:29.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "FirstBlazorApp\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Client\\Program.cs",
+              "RelativeToolTip": "FirstBlazorApp\\Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:23:53.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "FirstBlazorApp\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Pages\\FetchData.razor",
+              "RelativeToolTip": "FirstBlazorApp\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:22:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingListLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Shared\\ShoppingListLayout.razor.css",
+              "RelativeDocumentMoniker": "FirstBlazorApp\\Shared\\ShoppingListLayout.razor.css",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Shared\\ShoppingListLayout.razor.css",
+              "RelativeToolTip": "FirstBlazorApp\\Shared\\ShoppingListLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T12:59:53.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingListLayout.razor",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Shared\\ShoppingListLayout.razor",
+              "RelativeDocumentMoniker": "FirstBlazorApp\\Shared\\ShoppingListLayout.razor",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Shared\\ShoppingListLayout.razor",
+              "RelativeToolTip": "FirstBlazorApp\\Shared\\ShoppingListLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T11:57:33.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingList.razor",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Pages\\ShoppingList.razor",
+              "RelativeDocumentMoniker": "FirstBlazorApp\\Pages\\ShoppingList.razor",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\FirstBlazorApp\\FirstBlazorApp\\Pages\\ShoppingList.razor",
+              "RelativeToolTip": "FirstBlazorApp\\Pages\\ShoppingList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T11:26:46.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

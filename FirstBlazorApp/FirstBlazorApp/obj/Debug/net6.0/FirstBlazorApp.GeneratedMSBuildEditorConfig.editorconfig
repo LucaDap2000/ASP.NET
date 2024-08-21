@@ -1,0 +1,71 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = FirstBlazorApp
+build_property.RootNamespace = FirstBlazorApp
+build_property.ProjectDir = C:\Users\lucad\source\repos\FirstBlazorApp\FirstBlazorApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\lucad\source\repos\FirstBlazorApp\FirstBlazorApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Pages/Converter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Pages/ShoppingList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Shared/Item.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6v4rzgve31
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-z40z7u3kjb
+
+[C:/Users/lucad/source/repos/FirstBlazorApp/FirstBlazorApp/Shared/ShoppingListLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BwaW5nTGlzdExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6319us39bo

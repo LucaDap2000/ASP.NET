@@ -1,0 +1,64 @@
+﻿@page "/shoppinglist"
+@layout ShoppingListLayout
+@using FirstBlazorApp.Data;
+<PageTitle>@title</PageTitle>
+
+<h3>ShoppingList</h3>
+
+<EditForm Model="@grocery" OnSubmit="AddGrocery">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <p>
+        <label>
+            Name:
+            <InputText @bind-Value="grocery.Name"></InputText>
+        </label>
+    </p>
+    <p>
+        <label>
+            Price:
+            <InputNumber @bind-Value="grocery.Price"></InputNumber>
+        </label>
+    </p>
+    <button type="submit">Add Grocery</button>
+</EditForm>
+
+<tr>
+    <th>Name</th>
+    <th>Price</th>
+    <th></th>
+</tr>
+<table class="table table-sm">
+    @foreach(var grocery in groceries)
+    {
+        <Item GroceryItem="@grocery" OnGroceryPriceIncreased="OnGroceryPriceIncreased"></Item>
+    }
+</table>
+<h1>Total (@sum)</h1>
+
+@code {
+    private float sum = 0;
+    private string title = "Our Groceries";
+    private string groceryName = string.Empty;
+    private float groceryPrice;
+    private Grocery grocery = new(); 
+    private List<Grocery> groceries = new();
+
+    private void AddGrocery()
+    {
+        groceries.Add(grocery);
+        grocery = new();
+
+        UpdateTotalAmount();
+    }
+
+    public void UpdateTotalAmount()
+    {
+        sum = groceries.Sum(x => x.Price);
+    }
+
+    public void OnGroceryPriceIncreased()
+    {
+        UpdateTotalAmount();
+    }
+}

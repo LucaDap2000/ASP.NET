@@ -1,0 +1,30 @@
+﻿@inherits LayoutComponentBase
+
+<div class="Layout">
+    <div class="header">
+        <div>
+            <a>@today.ToString("dddd, dd MMMM yyyy")</a>
+        </div>
+    </div>
+
+    <div class="sidebar">
+        <NavMenu />
+        <a href="/">Home</a>
+        <a href="/counter">Counter</a>
+        <a href="/converter">Converter</a>
+    </div>
+    <div class="content">
+        <p>@Body</p>
+    </div>
+    <div class="footer">
+        <footer>
+            @footerMessage
+        </footer>
+    </div>
+</div>
+
+@code {
+    public string footerMessage { get; set; } = "Great Shopping!";
+
+    DateTime today = DateTime.Today;
+}
