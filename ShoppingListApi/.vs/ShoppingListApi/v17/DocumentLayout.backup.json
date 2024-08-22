@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\ShoppingListApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2646C0D9-C71E-43B7-829F-06731EFF57F1}|ShoppingListApi\\ShoppingListApi.csproj|c:\\users\\lucad\\source\\repos\\shoppinglistapi\\shoppinglistapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2646C0D9-C71E-43B7-829F-06731EFF57F1}|ShoppingListApi\\ShoppingListApi.csproj|solutionrelative:shoppinglistapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2646C0D9-C71E-43B7-829F-06731EFF57F1}|ShoppingListApi\\ShoppingListApi.csproj|c:\\users\\lucad\\source\\repos\\shoppinglistapi\\shoppinglistapi\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2646C0D9-C71E-43B7-829F-06731EFF57F1}|ShoppingListApi\\ShoppingListApi.csproj|solutionrelative:shoppinglistapi\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2646C0D9-C71E-43B7-829F-06731EFF57F1}|ShoppingListApi\\ShoppingListApi.csproj|c:\\users\\lucad\\source\\repos\\shoppinglistapi\\shoppinglistapi\\controllers\\groceriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2646C0D9-C71E-43B7-829F-06731EFF57F1}|ShoppingListApi\\ShoppingListApi.csproj|solutionrelative:shoppinglistapi\\controllers\\groceriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\ShoppingListApi\\ShoppingListApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShoppingListApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\ShoppingListApi\\ShoppingListApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShoppingListApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T10:14:02.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\ShoppingListApi\\ShoppingListApi\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "ShoppingListApi\\Controllers\\ErrorsController.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\ShoppingListApi\\ShoppingListApi\\Controllers\\ErrorsController.cs",
+              "RelativeToolTip": "ShoppingListApi\\Controllers\\ErrorsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:08:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroceriesController.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\ShoppingListApi\\ShoppingListApi\\Controllers\\GroceriesController.cs",
+              "RelativeDocumentMoniker": "ShoppingListApi\\Controllers\\GroceriesController.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\ShoppingListApi\\ShoppingListApi\\Controllers\\GroceriesController.cs",
+              "RelativeToolTip": "ShoppingListApi\\Controllers\\GroceriesController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwF4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:37:29.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
